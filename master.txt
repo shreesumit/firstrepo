@@ -1,1 +1,4 @@
 this is my first txt file through git bash
+
+
+some of chages has been accure
